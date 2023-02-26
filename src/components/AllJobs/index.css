@@ -1,0 +1,50 @@
+.search-input-container {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border-radius: 8px;
+  padding-left: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  width: 60%;
+  margin-left: 50px;
+}
+.search-input {
+  width: 35%;
+  background-color: transparent;
+
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  flex-grow: 1;
+}
+.search-icon {
+  color: #ffff;
+  background-color: #475569;
+  width: 20px;
+  height: 20px;
+}
+.All-sections {
+  display: flex;
+  justify-content: space-ar;
+}
+.filtered-list {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+.line {
+  width: 100%;
+}
+.employee-heading {
+  color: #ffff;
+  font-size: 15px;
+  font-weight: 600;
+}
+.salary-heading {
+  color: #ffff;
+  font-size: 15px;
+  font-weight: 600;
+}

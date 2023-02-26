@@ -1,0 +1,11 @@
+.salary {
+  color: #ffff;
+  font-size: 15px;
+}
+.salary-list {
+  display: flex;
+}
+.checkbox {
+  border-radius: 30%;
+  border: 1px solid black;
+}

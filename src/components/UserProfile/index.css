@@ -1,0 +1,17 @@
+.All-Jobs-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 20vh;
+  width: 30vh;
+}
+.profile {
+  width: 20%;
+}
+.profile-name {
+  color: #64748b;
+  font-size: 15px;
+}
+.paragraph {
+  font-size: 10px;
+  color: #475569;
+}
